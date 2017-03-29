@@ -4,7 +4,7 @@ strategy game
 
 ## Usage
 
-FIXME
+3d paradox like strategy game with built in scripting support 
 
 ## License
 
