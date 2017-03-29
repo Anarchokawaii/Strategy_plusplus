@@ -1,6 +1,6 @@
-# diaper_quest_c
+# Strategy plusplus
 
-A Clojure library designed to ... well, that part is up to you.
+strategy game
 
 ## Usage
 
